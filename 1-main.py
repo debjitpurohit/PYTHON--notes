@@ -11,8 +11,8 @@ print("2 seccond have passed since this program run")   #sleep(2) function tar j
 
 #external module
 
-import flask    # flask is also a module but it external so u have to install flask using pip
-#speechmodule.py file
+#import flask    # flask is also a module but it external so u have to install flask using pip
+#speechmodule file pyttsx3 moduleis for text to speech
 
 
                        #2____ pip
