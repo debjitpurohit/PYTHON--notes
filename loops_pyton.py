@@ -51,7 +51,7 @@ for item in b:
     print(item)
     if(item == 3):
         continue
-    print("done thisiteration for",item)
+    print("done thisiteration for",item) 
 else:
-       print("we are inside else")    
+       print("we are inside else")  #this is printed when the loop exhaustnormally(programm fisnished succesfully) {break thakle else print hbe nh}          
 print("we have finished this loop")    

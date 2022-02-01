@@ -1,0 +1,3 @@
+this is a read file for file i/o....... DEBJIT PUROHIT
+seccondline
+3rd line

@@ -1,0 +1,4 @@
+this is the write file created by file io 
+to print seccond line ,,this is the write file created by file io 
+this is the write file created by file io 
+to print seccond line ,,this is the write file created by file io 

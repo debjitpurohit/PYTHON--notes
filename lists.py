@@ -1,4 +1,4 @@
-          #list is like a arrays
+          #list is like a arrays we can use int ,float, string, boolean within a single array/list
 a =12
 b = "this is a string" 
 c= False
